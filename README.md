@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/kevinsun-dev/kevinsun-dev/master/banner.png" alt="Banner for Kevin Sun">
 
-I'm Computer Science student at Cornell University slated to graduate in 2022 with an interest in all things tech. I'm proficient in a wide variety of languages from JavaScript to OCaml to Chinese. On the side, I dabble in animation, video editing, acrylic painting, and game design. Feel free to take a look at my work below!
+I'm a tech enthusiast, designer, and video editor studying Computer Science @ Cornell University. I've worked on a wide variety of things, from a [few games](https://www.github.com/kevinsun-dev/core-impact) to a [couple](https://github.com/dotnet/roslyn/commits?author=kevinsun-dev) [programming languages](https://github.com/harmonylang) to a [half dozen apps on the Play Store](https://github.com/cuappdev). On the side, I dabble in animation, cooking, acrylic painting, and learning people languages. Feel free to take a look at my work below!
 
 ## Links to my stuff!
 
